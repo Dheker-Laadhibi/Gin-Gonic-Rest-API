@@ -1,5 +1,5 @@
 # Gin-Gonic-Rest-API
-![Gin Gonic Logo](gin-gonic-logo.png)
+![Gin Gonic Logo](https://i.redd.it/3dto8z3ma7671.png)
 A simple API built using the Gin framework in Go, allowing you to manage events.
 
 ## Overview
